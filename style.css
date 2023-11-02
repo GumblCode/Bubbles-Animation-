@@ -7,11 +7,11 @@
 	width: 100%;
 	background: linear-gradient(
 			217deg,
-			rgba(151, 149, 149, 0.8),
-			rgba(210, 27, 27, 0) 70.71%
+			rgba(241, 195, 11, 0.999),
+			rgb(222, 22, 22) 70.71%
 		),
-		linear-gradient(127deg, rgba(12, 13, 12, 0.8), rgba(0, 255, 0, 0) 70.71%),
-		linear-gradient(336deg, rgba(244, 244, 249, 0.8), rgba(0, 0, 255, 0) 70.71%);
+		linear-gradient(127deg, rgb(12, 13, 13), rgba(0, 255, 0, 0) 70.71%),
+		linear-gradient(336deg, rgb(15, 243, 175), rgba(0, 0, 255, 0) 70.71%);
 	position: absolute;
 }
 .wrapper h1 {
